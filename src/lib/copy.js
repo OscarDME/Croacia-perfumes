@@ -3,16 +3,16 @@ export const copy = {
   checkoutUrl: "https://www.oriopay.app/p/prirodna-kozmetika1",
 
   metadata: {
-    title: "Vodič za prirodnu kozmetiku | PerfuMaria das Ervas",
+    title: "Vodič za prirodnu kozmetiku",
     description:
-      "80 recepata za 100 % prirodnu kozmetiku koju možete napraviti kod kuće. Testirane i provjerene formule za osobnu upotrebu ili pokretanje posla.",
+      "80 recepata za 100 % prirodnu kozmetiku koju možete napraviti kod kuće. Testirane i provjerene formule za sigurnu njegu kože i izbjegavanje toksičnih kemikalija.",
   },
 
   hero: {
     headlineLine1: "80 recepata za",
     headlineHighlight: "PRIRODNU KOZMETIKU",
     subheadline:
-      "Dobijte pristup tajnim receptima za 100 % prirodnu kozmetiku koju možete izraditi u udobnosti vlastitog doma! Testirane i provjerene formule za osobnu upotrebu ili za pokretanje vlastitog posla.",
+      "Dobijte pristup tajnim receptima za 100 % prirodnu kozmetiku koju možete izraditi u udobnosti vlastitog doma! Testirane i sigurne formule za zaštitu vaše obitelji i odustajanje od industrijskih proizvoda punih toksina.",
     cta: "ŽELIM PRISTUP ODMAH!",
     imageAlt: "Vodič za prirodnu kozmetiku",
     timerLabels: {
@@ -24,7 +24,7 @@ export const copy = {
   },
 
   story: {
-    text: "Sada ću vam dati praktičan vodič, direktan i bez nepotrebnih komplikacija, ali iznimno pouzdan, kako biste kod kuće mogli izrađivati svoju 100 % prirodnu kozmetiku. Bez trošenja bogatstva, bez ovisnosti o tisućama sastojaka – i s mogućnošću da je koristite za sebe, poklonite voljenima ili čak prodajete ako želite stvoriti novi izvor prihoda!",
+    text: "Sada ću vam dati praktičan vodič, direktan i bez nepotrebnih komplikacija, ali iznimno pouzdan, kako biste kod kuće mogli izrađivati svoju 100 % prirodnu kozmetiku. Bez trošenja bogatstva, bez ovisnosti o tisućama sastojaka – i uz radost što je izrađujete za sebe, poklanjate voljenima i svi zajedno uživate u zdravoj i 100 % sigurnoj njezi!",
     imageAlt: "Prirodna kozmetika",
   },
 
@@ -121,23 +121,23 @@ export const copy = {
   },
 
   whatYouGet: {
-    headline: "ŠTO ĆETE PRONAĆI U OVOM SAVRŠENOM VODIČU?",
+    headline: "ŠTO ĆETE PRONAĆI U OVOM IZVANREDNOM PRIRUČNIKU?",
     cta: "PREUZMITE VODIČ ODMAH!",
     imageAlt: "Što ćete pronaći u vodiču",
     items: [
-      "Više od 80 testiranih i provjerenih recepata – uključujući kremasti piling sapun, suho ulje za lice, sprej za tijelo, zaštitu od topline za kosu i razne nove formule.",
-      "Baze za kreme, gelove, šampone i sapune – naučite stvarati sigurne i personalizirane formule za svaki tip kože i kose.",
-      "Potpuni vodič korak po korak za početnike i napredne – savladajte sve, od osnovnih koncepata do najsloženijih tehnika.",
-      "Katalog sastojaka – otkrijte prednosti raznih prirodnih sirovina kako biste kreirali visokoučinkovitu kozmetiku.",
-      "Fitoterapija primijenjena u kozmetologiji – kako koristiti ljekovite biljke za pojačavanje djelovanja vaše kozmetike.",
-      "Tajne prirodnog formuliranja – regulacija pH vrijednosti, konzerviranje, odabir sirovina i učinkovite kombinacije.",
-      "Savjeti za kućnu i profesionalnu proizvodnju – stvorite vlastiti studio za prirodnu kozmetiku i usavršite svoje tehnike.",
-      "Održivost i briga za okoliš – naučite kreirati biorazgradivu i ekološki prihvatljivu kozmetiku.",
+      "Više od 80 testiranih i provjerenih recepata – uključujući kremasti piling sapun, suho ulje za lice, sprej za tijelo, zaštitu od topline za kosu i razne nove, inovativne formule.",
+      "Baze za kreme, gelove, šampone i sapune – naučite stvarati potpuno sigurne i personalizirane formule za svaki tip kože i kose.",
+      "Potpuni vodič korak po korak za početnike i napredne – savladajte sve, od osnovnih koncepata do najsloženijih kozmetičkih tehnika.",
+      "Katalog sastojaka – otkrijte prednosti raznih prirodnih sirovina kako biste kreirali visokoučinkovitu i čistu kozmetiku.",
+      "Fitoterapija primijenjena u kozmetologiji – kako maksimalno koristiti ljekovito bilje za pojačavanje djelovanja vaše kozmetike.",
+      "Tajne prirodnog formuliranja – regulacija pH vrijednosti, prirodno konzerviranje, odabir sirovina i najučinkovitije sinergije.",
+      "Savjeti za savršenu kućnu proizvodnju – pretvorite svoju kuhinju u sigurno mjesto za stvaranje čiste kozmetike i usavršite svoje tehnike.",
+      "Održivost i briga za okoliš – naučite kreirati potpuno biorazgradivu kozmetiku koja je nježna prema planetu.",
     ],
   },
 
   testimonials: {
-    headline: "POGLEDAJTE ŠTO DRUGI KAŽU O VODIČU ZA PRIRODNU KOZMETIKU:",
+    headline: "POGLEDAJTE ŠTO KAŽU ŽENE KOJE VEĆ KORISTE OVAJ VODIČ:",
     cta: "ŽELIM PRISTUP ODMAH!",
     cards: [
       {
@@ -145,7 +145,7 @@ export const copy = {
         initials: "AM",
         color: "#16a34a",
         stars: 5,
-        text: "Obožavam ovaj vodič! Već sam napravila umirujuću kremu za tijelo i sapun za lice, ispali su nevjerojatno. Puno su bolji od industrijskih proizvoda koje sam prije koristila. Topla preporuka!",
+        text: "Obožavam ovaj vodič! Već sam napravila umirujuću kremu za tijelo i sapun za lice, ispali su nevjerojatno. Puno su bolji od industrijskih proizvoda koje sam prije koristila. Topla preporuka svima!",
         source: "WhatsApp",
       },
       {
@@ -153,7 +153,7 @@ export const copy = {
         initials: "JK",
         color: "#0f766e",
         stars: 5,
-        text: "Ljudi, kakav predivan vodič! Recepti su vrlo detaljni i laki za praćenje. Već sam prodala nekoliko proizvoda prijateljicama i one ih obožavaju. Vrijedi svakog centa!",
+        text: "Cure, kakav predivan vodič! Recepti su vrlo detaljni i laki za praćenje. Već sam izradila nekoliko proizvoda za prijateljice i one ih obožavaju. Vrijedi svakog centa!",
         source: "WhatsApp",
       },
       {
@@ -161,7 +161,7 @@ export const copy = {
         initials: "SR",
         color: "#7c3aed",
         stars: 5,
-        text: "Bojala sam se kupiti ga, ali se itekako isplatilo! Katalog sirovina mi je jako pomogao da razumijem sastojke. Već sam isprobala 6 različitih recepata i svi su ispali odlično.",
+        text: "Bojala sam se kupiti ga, ali se itekako isplatilo! Katalog sirovina mi je jako pomogao da razumijem sastojke. Već sam isprobala 6 različitih recepata i svi su ispali besprijekorno.",
         source: "WhatsApp",
       },
       {
@@ -169,83 +169,83 @@ export const copy = {
         initials: "IB",
         color: "#b45309",
         stars: 5,
-        text: "Kakva nevjerojatna investicija! Pomoću vodiča naučila sam raditi kruti šampon i regenerator. Kosa mi je puno zdravija i štedim dosta novca svaki mjesec. Hvala vam!",
+        text: "Kakva nevjerojatna investicija! Pomoću vodiča sam napokon naučila raditi kruti šampon i regenerator. Kosa mi je oživjela, puno je zdravija, a štedim dosta novca svaki mjesec na kozmetici. Hvala vam!",
         source: "WhatsApp",
       },
     ],
   },
 
   autonomyIntro: {
-    text1: "S Vodičem za prirodnu kozmetiku naučit ćete stvarati svoju kozmetiku od nule.",
-    text2: "Pokazat će vam korak po korak kako odabrati prirodne sastojke, prilagoditi formule različitim tipovima kože i kose te personalizirati proizvode prema vlastitim potrebama.",
-    text3: "Osim toga, steći ćete samopouzdanje i neovisnost u formuliranju, s mogućnošću testiranja i prilagođavanja recepata kako biste stvorili jedinstvene proizvode s vlastitim potpisom. Zahvaljujući detaljnom katalogu prirodnih sirovina, upoznat ćete najbolje sastojke i naučiti idealne kombinacije za svaki kozmetički proizvod.",
+    text1: "S Vodičem za prirodnu kozmetiku naučit ćete stvarati vlastite proizvode potpuno od nule.",
+    text2: "Pokazat će vam korak po korak kako svjesno odabrati prirodne sastojke, prilagoditi formule različitim tipovima kože i poroznosti kose te personalizirati proizvode tako da savršeno odgovaraju vašim potrebama.",
+    text3: "Steći ćete samopouzdanje i potpunu neovisnost u formuliranju. Moći ćete testirati i usavršavati recepte, kreirajući unikatnu kozmetiku s vlastitim karakterom. Zahvaljujući vrlo detaljnom katalogu prirodnih sirovina, upoznat ćete najbolje sastojke i otkriti idealne kombinacije za svaki tip proizvoda.",
     cta: "PREUZMITE VODIČ ODMAH!",
-    imageAlt: "Neovisnost u prirodnoj kozmetici",
+    imageAlt: "Neovisnost u izradi prirodne kozmetike",
   },
 
   benefitsList: {
-    headline: "Neovisnost i kreativnost u prirodnoj kozmetici!",
+    headline: "Neovisnost i kreativnost u svijetu prirodne njege!",
     cta: "ŽELIM PRISTUP ODMAH!",
     items: [
       {
         bold: "Naučite stvarati",
-        rest: " kreme, serume, šampone, sapune i još mnogo toga.",
+        rest: " kreme, serume, šampone, sapune i još mnogo drugih proizvoda za njegu.",
       },
       {
-        bold: "Otkrijte kako odabrati",
-        rest: " prave sastojke za svaku potrebu.",
+        bold: "Otkrijte kako bez greške odabrati",
+        rest: " prave sastojke za svaku specifičnu potrebu kože i kose.",
       },
       {
-        bold: "Postanite neovisni o industrijskoj kozmetici i",
-        rest: " razvijte personalizirane formule.",
+        bold: "Oslobodite se industrijske kemije i",
+        rest: " razvijte 100 % personalizirane, prirodne formule.",
       },
       {
         bold: "Uronite u fitoterapiju primijenjenu u kozmetologiji,",
-        rest: " koristeći terapeutska svojstva ljekovitih biljaka.",
+        rest: " crpeći punim rukama ljekovita svojstva biljaka i ekstrakata.",
       },
       {
-        bold: "Smanjite troškove",
-        rest: " stvarajući vlastitu kozmetiku bez kompromisa u kvaliteti.",
+        bold: "Značajno smanjite troškove",
+        rest: " stvarajući vlastitu kozmetiku bez i najmanjeg kompromisa u njezinoj kvaliteti.",
       },
       {
         bold: "Dobijte pristup profesionalnim formulama",
-        rest: " i naučite kako sigurno izraditi najbolje proizvode.",
+        rest: " i naučite kako sigurno izraditi proizvode najviše klase.",
       },
       {
-        bold: "Istaknite se na tržištu prirodne ljepote,",
-        rest: " koje sve više raste i cijeni održive proizvode.",
+        bold: "Pružite svojoj koži najbolju njegu,",
+        rest: " točno znajući koje čiste sastojke koristite.",
       },
       {
-        bold: "Naučite kako urediti kućni kozmetički studio,",
-        rest: " uz praktične savjete za organizaciju radnog prostora.",
+        bold: "Zaštitite zdravlje svoje obitelji",
+        rest: " proizvodima bez štetnih konzervansa i umjetnih boja.",
       },
     ],
   },
 
   economy: {
-    headline: "Ušteda i poslovna prilika na prirodnom tržištu!",
-    text1: "Stvaranje vlastite prirodne kozmetike odlična je prilika kako za uštedu, tako i za posao. S Vodičem za prirodnu kozmetiku naučit ćete kako proizvesti visokokvalitetnu kozmetiku po niskoj cijeni, izbjegavajući prekomjerne troškove konvencionalnih proizvoda i ulažući u pristupačne te učinkovite prirodne sastojke.",
-    text2: "Ako želite pokrenuti vlastiti posao, ovo je dragocjen vodič za stvaranje održivog i isplativog poduhvata. Uz ekskluzivne formule i praktične savjete o konzerviranju, pakiranju i tržištu, možete stvoriti vlastiti brend prirodne kozmetike nudeći ručno rađene proizvode koji prate trend svjesne i ekološke potrošnje.",
-    cta: "PREUZMITE VODIČ ODMAH!",
-    imageAlt: "Poslovanje na prirodnom tržištu",
+    headline: "Ušteda i zdrava njega bez ijednog grama kemije!",
+    text1: "Stvaranje vlastite prirodne kozmetike najbolji je način za zaštitu kože, uz istovremenu ogromnu uštedu novca. S Vodičem za prirodnu kozmetiku naučit ćete kako proizvesti visokokvalitetne proizvode za djelić cijene onih iz drogerija. Tako ćete izbjeći preplaćivanje komercijalne kozmetike pune kemije, ulažući u pristupačne, čiste i visoko učinkovite prirodne sirovine.",
+    text2: "Ovo je vaš neprocjenjiv priručnik za prijelaz na zdraviji stil života. Zahvaljujući ekskluzivnim receptima, vratit ćete potpunu kontrolu nad onim što nanosite na svoje tijelo. Možete uživati u ručno rađenim proizvodima koji su 100 % sigurni, ekološki i nježni kako za vašu kožu, tako i za okoliš.",
+    cta: "POČINJEM IZRAĐIVATI!",
+    imageAlt: "Zdrava njega",
   },
 
   finalCta: {
     urgencyLabel: "POSLJEDNJI DAN ZA NARUDŽBU",
-    urgencySub: "po promotivnoj cijeni!",
+    urgencySub: "po promotivnoj akcijskoj cijeni!",
     urgencyText:
-      "Ovo je vaša posljednja prilika da iskoristite našu posebnu ponudu i postanete dio naše obitelji s tisućama zadovoljnih polaznica!",
+      "Ovo je vaša apsolutno posljednja prilika da iskoristite našu iznimnu ponudu i pridružite se skupini od tisuća oduševljenih polaznica!",
     offerPrice: "8.90 €",
     button: "OSTVARITE PRISTUP ODMAH!",
     productTitle: "Vodič za prirodnu kozmetiku!",
     imageAlt: "Vodič za prirodnu kozmetiku",
     bundleList: [
       "80 recepata za prirodnu kozmetiku",
-      "Kompletan priručnik za učenje",
-      "Edukativni katalog sirovina",
-      "Zajednica polaznica",
-      "Specijalizirana podrška za pitanja",
-      "Popis dobavljača",
+      "Sveobuhvatan priručnik korak po korak",
+      "Edukativni leksikon sirovina",
+      "Pristup zatvorenoj zajednici",
+      "Stručna podrška za sva pitanja",
+      "Provjeren i pouzdan popis dobavljača",
     ],
     timerLabels: {
       days: "Dani",
@@ -256,8 +256,6 @@ export const copy = {
   },
 
   footer: {
-    tagline: "Otkrijte kako stvoriti savršenu prirodnu kozmetiku!",
-    linkLabel: "Cjeloviti tečaj prirodne kozmetike",
-    linkHref: "https://www.perfumariadaservas.shop",
+    tagline: "Otkrijte s nama kako stvoriti savršenu prirodnu kozmetiku!",
   },
 };
